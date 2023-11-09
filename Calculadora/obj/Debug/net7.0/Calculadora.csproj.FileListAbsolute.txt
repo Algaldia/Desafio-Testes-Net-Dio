@@ -1,0 +1,14 @@
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\bin\Debug\net7.0\Calculadora.exe
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\bin\Debug\net7.0\Calculadora.dll
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\Calculadora.dll
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+F:\Programação\DIO\.Net\15-DesafioTestes\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
